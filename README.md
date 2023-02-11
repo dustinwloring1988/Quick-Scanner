@@ -11,11 +11,11 @@
     </ol>
     <p>Note that the installation process may vary depending on your system configuration.</p>
     <h2>Usage</h2>
-    <p>To use Quick-Scanner, simply run the <code>quick_scan.py</code> script and provide an IP address as an argument:</p>
-    <pre><code>python quick_scan.py 192.168.1.1</code></pre>
+    <p>To use Quick-Scanner, simply run the <code>masscan-scanner.py</code> script and provide an IP address as an argument:</p>
+    <pre><code>python masscan-scanner.py</code></pre>
     <p>The script will then scan all ports on the specified IP address and print out a list of open ports.</p>
-    <p>You can also use the <code>banner_grab.py</code> script to grab the banner for a specific service running on a port:</p>
-    <pre><code>python banner_grab.py 192.168.1.1 80</code></pre>
+    <p>You can also use the <code>nmap-scanner.py</code> script to grab the banner for a specific service running on a port:</p>
+    <pre><code>python mnmap-scanner.py</code></pre>
     <p>The script will attempt to grab the banner for the service running on port 80 and print it to the console.</p>
     <p>Note that the <code>masscan-scanner.py</code> and <code>nmap-scanner.py</code> scripts are also included in the repository and can be used to perform port scans using the Masscan and Nmap tools, respectively.</p>
     <h2>Excluding Ports</h2>
