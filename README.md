@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    Quick-Scanner README
-  </head>
   <body>
     <h1>Quick-Scanner</h1>
     <p>Quick-Scanner is a simple command-line tool written in Python that allows users to quickly scan for open ports on a target IP address.</p>
