@@ -3,6 +3,7 @@
   <body>
     <h1>Quick-Scanner</h1>
     <p>Quick-Scanner is a simple command-line tool written in Python that allows users to quickly scan for open ports on a target IP address.</p>
+    <p>Quick-Scanner simplifies network scanning and makes it accessible to everyone. Try it out today and see how it can benefit you. </p>
     <h2>Installation</h2>
     <p>To install Quick-Scanner, follow these steps:</p>
     <ol>
