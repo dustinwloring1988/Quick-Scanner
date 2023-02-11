@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Quick-Scanner README</title>
+    Quick-Scanner README
   </head>
   <body>
     <h1>Quick-Scanner</h1>
