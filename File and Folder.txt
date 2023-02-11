@@ -1,0 +1,11 @@
+Quick-Scanner/
+├── exclude.txt
+├── quick_scan.py
+├── setup.py
+├── README.md
+├── Masscan/
+│   └── ...
+├── Nmap/
+│   └── ...
+└── results/
+│   └── ...
