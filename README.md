@@ -12,10 +12,10 @@
     </ol>
     <p>Note that the installation process may vary depending on your system configuration.</p>
     <h2>Usage</h2>
-    <p>To use Quick-Scanner, simply run the <code>masscan-scanner.py</code></p>
+    <p>To use Quick-Scanner, simply run the <code>masscan-scanner.py</code> then selecte a scan to run. It will save teh results for later</p>
     <pre><code>python masscan-scanner.py</code></pre>
     <p>The script will run and you will just selecte from an option available</p>
-    <p>You can also use the <code>nmap-scanner.py</code> script to grab the banner for a specific service running on a port:</p>
+    <p>Next you would use the <code>nmap-scanner.py</code> script to use the target list that you generated in the script above:</p>
     <pre><code>python mnmap-scanner.py</code></pre>
     <p>The script will run and you will just selecte from an option available</p>
     <h2>Excluding Ports</h2>
