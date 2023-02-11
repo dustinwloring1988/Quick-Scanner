@@ -7,7 +7,7 @@
     <p>To install Quick-Scanner, follow these steps:</p>
     <ol>
       <li>Clone the repository: <code>git clone https://github.com/dustinwloring1988/Quick-Scanner.git</code></li>
-      <li>Run the setup script: <code>python setup.py install</code></li>
+      <li>Run the setup script: <code>python setup.py</code></li>
     </ol>
     <p>Note that the installation process may vary depending on your system configuration.</p>
     <h2>Usage</h2>
