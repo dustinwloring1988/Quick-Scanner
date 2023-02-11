@@ -21,6 +21,6 @@
     <p>If you need to exclude certain ports from the scanning process, you can add them to the <code>exclude.txt</code> file in the repository.</p>
     <p>The file already contains a few commonly excluded ports, but you can add or remove ports from the list as needed.</p>
     <h2>License</h2>
-    <p>Quick-Scanner is released under no License as it was mad by AI.</p>
+    <p>Quick-Scanner is released under no License as it was made by AI.</p>
   </body>
 </html>
