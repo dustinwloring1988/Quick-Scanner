@@ -3,9 +3,9 @@ Quick-Scanner/
 ├── quick_scan.py
 ├── setup.py
 ├── README.md
-├── Masscan/
+├── scan_results/
 │   └── ...
-├── Nmap/
+├── screenshots/
 │   └── ...
-└── results/
+└── vuln/
 │   └── ...
